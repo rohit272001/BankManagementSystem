@@ -1,0 +1,28 @@
+{
+  "password": "Rohit@123",
+  "role": "admin",
+  "username": "Rohit"
+}
+
+
+{
+  "password": "Rohit@123",
+  "username": "Rohit"
+}
+
+
+{
+  "accType": "saving",
+  "accountNumber": 101,
+  "email": "rohit@2001",
+  "mobile": 9685065503,
+  "userName": "Rohit Kumar"
+}
+
+{
+  "accType": "saving",
+  "accountNumber": 102,
+  "email": "saurav@2001",
+  "mobile": 9685065588,
+  "userName": "Saurav Kumar"
+}
